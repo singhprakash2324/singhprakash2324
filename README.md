@@ -38,6 +38,15 @@
 
 ---
 
+---
+
+### 🕘 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/singhprakash2324](https://www.linkedin.com/in/singhprakash2324)
