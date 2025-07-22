@@ -1,0 +1,29 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update with GitHub activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: GitHub Activity Generator
+        uses: Readme-Workflows/recent-activity@main
+        with:
+          GH_USERNAME: singhprakash2324
+          MAX_LINES: 5
+
+      - name: Commit & Push if Changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "⚡ updated recent activity"
+          git push
+        continue-on-error: true
