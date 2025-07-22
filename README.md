@@ -8,7 +8,7 @@
 ### 🚀 What I'm Working On
 
 - Building real-world machine learning pipelines from scratch  
-- Exploring neural networks without frameworks (just NumPy!)  
+- Exploring neural networks with frameworks (pyTorch, TensorFlow)  
 - Applying classical models to impactful use cases like cancer prediction
 
 ---
@@ -41,7 +41,7 @@
 ### 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/singhprakash2324](https://www.linkedin.com/in/singhprakash2324)
-- 📧 Email: singhprakash2324@gmail.com
+- 📧 Email: prakash8953s@gmail.com
 
 ---
 
