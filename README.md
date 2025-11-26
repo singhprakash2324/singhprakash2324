@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prakash Singh 👋</h1>
 <p align="center">
-  🎓 B.Tech AI/ML Student | 🤖 Machine Learning Enthusiast | 🧠 Deep Learning Explorer
+  🎓 B.Tech AI/ML Student | 🤖 Machine Learning Enthusiast | 🧠 Deep Learning Explorer 
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🛠 Tech Stack
 
-`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter` · `Git & GitHub`
+`Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `Jupyter` · `Git & GitHub`, `Python`, `C++`,`java`,`html5`
 
 ---
 
