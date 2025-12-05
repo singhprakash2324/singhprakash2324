@@ -132,7 +132,7 @@ me.say_hi()
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1e90ff','primaryTextColor':'#fff','primaryBorderColor':'#7C0000','lineColor':'#F8B229','secondaryColor':'#006100','tertiaryColor':'#4a148c','backgroundColor':'#1a1a2e','textColor':'#fff','fontSize':'16px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1e9fff','primaryTextColor':'#fff','primaryBorderColor':'#7C0000','lineColor':'#F8B229','secondaryColor':'#006100','tertiaryColor':'#4a148c','backgroundColor':'#1a1a2e','textColor':'#fff','fontSize':'16px'}}}%%
 mindmap
   root((AI/ML Journey))
     Machine Learning
