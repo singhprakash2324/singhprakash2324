@@ -131,26 +131,48 @@ me.say_hi()
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((AI/ML Journey))
-    Machine Learning
-      Supervised Learning
-      Unsupervised Learning
-      Model Optimization
-    Deep Learning
-      Neural Networks
-      CNNs
-      Transfer Learning
-    MLOps
-      Model Deployment
-      CI/CD for ML
-      Monitoring
-    Research
-      Paper Implementation
-      Novel Architectures
-      Real-world Applications
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+- 🎯 Supervised & Unsupervised Learning
+- 📊 Feature Engineering & Selection
+- ⚡ Model Optimization & Tuning
+- 🔍 Exploratory Data Analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Deep Learning
+- 🔥 Neural Network Architectures
+- 🖼️ Convolutional Neural Networks
+- 🔄 Transfer Learning Techniques
+- 📈 Performance Optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 MLOps & Deployment
+- ☁️ Model Deployment Strategies
+- 🔧 CI/CD for ML Pipelines
+- 📡 Model Monitoring & Maintenance
+- 🐳 Containerization with Docker
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Research & Innovation
+- 📄 Paper Implementation & Review
+- 🆕 Exploring Novel Architectures
+- 🌍 Real-world AI Applications
+- 💡 Contributing to Open Source
+
+</td>
+</tr>
+</table>
 
 </div>
 
